@@ -29,5 +29,6 @@ About myself? I am French but bilingual... well I think ahah. I was born and I l
   <img src="https://github-readme-stats.vercel.app/api?username=enfantdistrait&show_icons=true&theme=tokyonight&hide_border=true&title_color=bf5fff&icon_color=bf5fff" alt="stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enfantdistrait&layout=compact&theme=tokyonight&hide_border=true&title_color=bf5fff" alt="langs" height="180"/>
 </p>
+(sh*tty stats 💀)
 
 ---
