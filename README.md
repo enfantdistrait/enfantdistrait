@@ -3,9 +3,15 @@
 <p align="center">
   <img src="top.svg" width="100%" />
 </p>
+
+---
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=hiya+!+;welcome+to+my+gitHub+page+!" alt="Typing SVG" />
 </h1>
+
+---
+
 <p align="center">
   <img src="bottom.svg" width="100%" />
 </p>
