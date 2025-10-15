@@ -1,9 +1,13 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/07/47/25/0747250621eb607cda89a761bf9db747.gif" width="100%" alt="Header GIF"/>
+</p>
+
 ---
 
 <div align="center" style="margin:0;">
   <img src="top.svg" width="100%" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=hiya+!+;welcome+to+my+gitHub+page+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=hiya+!+;welcome+to+my+github+page+!" alt="Typing SVG" />
   <br/>
   <img src="bottom.svg" width="100%" />
 </div>
