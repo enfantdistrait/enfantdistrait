@@ -18,7 +18,7 @@
 « Since I was little I have been fascinated by computers and programming. I started my first creations at the age of 9 where I coded games and batch tools on my mother's old computer without a connection.
 At 11 I had my first high-performance PC with a connection. Over the years I was able to do a lot of projects on my own, small tests in python, minecraft servers and many other things.
 Today I am starting to share and do real projects, which will mainly be on this github page.
-About myself? I am French but bilingual... well I think ahah. I was born and I live in the "Région Parisienne", I am a student. »
+About myself? I am French but bilingual... well I think ahah. I was born and I live in Paris, I am a student. »
 
 ---
 
