@@ -20,16 +20,6 @@ I am constantly striving to **improve my skills** and **expand my expertise**.
 
 ## 🫡 Get in Touch
 
-<p align="center">
-  <a href="https://discord.com/users/YourDiscordID" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" alt="Discord" width="40" height="40" style="filter: invert(100%);"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/YourInstagram" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" width="40" height="40" style="filter: invert(100%);"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/maildotru.svg" alt="Email" width="40" height="40" style="filter: invert(100%);"/>
-  </a>
-</p>
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TON_ID)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/TON_PSEUDO)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TON_EMAIL@example.com)
