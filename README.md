@@ -1,5 +1,5 @@
-<hr style="width:50%; margin: auto;">
-<img src="https://readme-typing-svg.herokuapp.com?size=27&height=70&duration=5000&color=D4AE87&font=Minecraftia&lines=Welcome+to+my+GitHub;I'm+Thomas" />
+---
+<img src="https://readme-typing-svg.herokuapp.com?size=27&height=80&duration=5000&color=D4AE87&font=Minecraftia&lines=Welcome+to+my+GitHub;I'm+Thomas" />
 
 ## **🌴 About me**
 I'm Thomas. I have been passionate about programming and creating digital projects since I was a child.
