@@ -36,6 +36,4 @@ I am constantly striving to **improve my skills** and **expand my expertise**.
 
 > ➪ Visit [enfantdistrait.fr](https://enfantdistrait.fr/) to see my others projects ! [WEBSITE IS NOT OPEN FOR NOW]
 
----
-
-[![](https://komarev.com/ghpvc/?username=enfantdistrait)]()
+#
