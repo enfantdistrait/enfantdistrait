@@ -21,8 +21,15 @@ I am constantly striving to **improve my skills** and **expand my expertise**.
 ## 🫡 Get in Touch
 
 <p align="center">
-  <a href="https://github.com/YourGitHubProfile" target="_blank">GitHub</a> •
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> •
-  <a href="https://twitter.com/yourprofile" target="_blank">Twitter</a>
+  <a href="https://discord.com/users/YourDiscordID" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/discord.svg" alt="Discord" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/YourInstagram" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/maildotru.svg" alt="Email" width="40" height="40"/>
+  </a>
 </p>
-
