@@ -4,7 +4,7 @@
 
 #  w e l c o m e
 
-> "Calm mind brings inner strength and self-confidence." — Dalai Lama
+> "Forgiveness is the best way to peace." - Someone
 
 ---
 
@@ -21,15 +21,17 @@ I am constantly striving to **improve my skills** and **expand my expertise**.
 ## 🫡 Get in Touch
 
 <p align="center">
-  <a href="https://discord.com/users/YourDiscordID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.com/users/1177362819507830918" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" alt="Discord" width="40" height="40" style="filter: invert(100%);"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/YourInstagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://instagram.com/enfantdistrait" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" width="40" height="40" style="filter: invert(100%);"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="enfantdistrait@proton.me" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/maildotru.svg" alt="Email" width="40" height="40" style="filter: invert(100%);"/>
   </a>
 </p>
+
+> ➪ Visit [enfantdistrait.fr](https://enfantdistrait.fr/) to see my others projects ! [WEBSITE IS NOT OPEN FOR NOW]
