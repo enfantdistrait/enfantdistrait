@@ -3,10 +3,8 @@
 
 ## **🌴 About me**
 I'm Thomas. I have been passionate about programming and creating digital projects since I was a child.
-For over four and a half years, 
-I have been coding a wide variety of applications, 
-exploring everything from simple scripts to complex systems.
-I particularly excel in Python and web development, 
-though I am adaptable and eager to take on projects of any kind. 
+For over four and a half years, I have been coding a wide variety of applications, exploring everything from simple scripts to complex systems.
+I particularly excel in Python and web development, though I am adaptable and eager to take on projects of any kind. 
 I am constantly striving to improve my skills and expand my expertise.
 
+---
