@@ -29,7 +29,7 @@ I am constantly striving to **improve my skills** and **expand my expertise**.
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" width="40" height="40" style="filter: invert(100%);"/>
   </a>
   &nbsp;&nbsp;
-  <a href="enfantdistrait@proton.me" target="_blank">
+  <a href="mailto:enfantdistrait@proton.me" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/maildotru.svg" alt="Email" width="40" height="40" style="filter: invert(100%);"/>
   </a>
 </p>
