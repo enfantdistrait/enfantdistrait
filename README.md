@@ -23,11 +23,6 @@ I am constantly striving to **improve my skills** and **expand my expertise**.
 <p align="center">
   <a href="https://discord.com/users/1177362819507830918" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" alt="Discord" width="40" height="40" style="filter: invert(100%);"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/enfantdistrait" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" width="40" height="40" style="filter: invert(100%);"/>
-  </a>
   &nbsp;&nbsp;
   <a href="mailto:enfantdistrait@proton.me" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/maildotru.svg" alt="Email" width="40" height="40" style="filter: invert(100%);"/>
